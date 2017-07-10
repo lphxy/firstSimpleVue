@@ -22,7 +22,7 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 ### 技术栈
 
-####前台
+#### 前台
 >* vue
 >* vue-router
 >* vuex
@@ -30,7 +30,7 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 >* es6
 >* webpack
 
-####后台
+#### 后台
 > * Node
 > * restful api
 
